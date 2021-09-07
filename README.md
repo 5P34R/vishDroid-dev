@@ -1,1 +1,1 @@
-Im fisrt year CSE student | Cybersecurity enthusiant | Django 
+Hy there 😀
