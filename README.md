@@ -5,4 +5,4 @@
 
 # What I do ?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishDroid-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishDroid-dev)
