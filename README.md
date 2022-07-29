@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 9 hrs 56 mins
+Total Time: 7 hrs 38 mins
 
-Python       2 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   24.31 %
-HTML         2 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-Vue.js       2 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-Docker       1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-JavaScript   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-YAML         40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+HTML         2 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+Python       2 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
+Docker       1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+JavaScript   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+YAML         40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
