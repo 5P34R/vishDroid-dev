@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **Web3, and Binary Exploitation**
 - 💬 Ask me about **Go, Git and Python**
 - 📫 How to reach me: [@5P34R](https://twitter.com/Vishnu27302693) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 ---
 <!--START_SECTION:waka-->
