@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 hrs 42 mins
+Total Time: 18 hrs 26 mins
 
-Python       7 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-Dart         6 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   27.59 %
-TypeScript   3 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-HTML         2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Bash         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Python       7 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
+Dart         6 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+TypeScript   3 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+HTML         2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+C            2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Bash         1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->
