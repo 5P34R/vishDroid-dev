@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Vishnu aka 5P34R.</h2>
+<h2 align="center">👋 Hello! I'm Vishnu.</h2>
 
 
 - 🔭 I’m currently working on **Dream**
