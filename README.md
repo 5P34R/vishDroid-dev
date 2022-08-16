@@ -10,13 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 32 mins
+Total Time: 8 hrs 22 mins
 
-Python       12 hrs 7 mins   █████████████████████▓░░░   86.85 %
-C            33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Git Config   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Dart         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Python       12 hrs 7 mins   █████████████████████▒░░░   85.26 %
+Dart         1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Git Config   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
