@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 49 mins
+Total Time: 4 hrs 12 mins
 
-Python       41 mins         ████████████████████▓░░░░   83.18 %
-TypeScript   8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python       3 hrs 28 mins   ████████████████████▒░░░░   81.53 %
+Smali        33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
