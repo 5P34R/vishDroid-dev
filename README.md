@@ -10,10 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 mins
+Total Time: 19 mins
 
-Python   14 mins         ████████████████████████▓   99.23 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python   14 mins         ██████████████████▒░░░░░░   73.10 %
+YAML     5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
