@@ -10,11 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 mins
+Total Time: 5 mins
 
-Python   14 mins         ██████████████████▒░░░░░░   73.10 %
-YAML     5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+YAML   5 mins          ████████████████████████▓   98.41 %
+HTML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
