@@ -10,7 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 52 mins
+
+Go       50 mins         ████████████████████████░   95.92 %
+Text     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
