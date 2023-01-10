@@ -10,13 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 52 mins
+Total Time: 2 hrs 4 mins
 
-Python       1 hr 49 mins    ███████████████░░░░░░░░░░   60.34 %
-Text         24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-JavaScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Assembly     11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Python       1 hr 31 mins    ██████████████████░░░░░░░   72.48 %
+JavaScript   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Assembly     11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Text         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
