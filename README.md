@@ -10,14 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 9 hrs 27 mins
+Total Time: 10 hrs 4 mins
 
-Python       7 hrs 37 mins   ████████████████████░░░░░   80.61 %
-Rust         1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-PHP          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       7 hrs 28 mins   █████████████████▒░░░░░░░   69.97 %
+Rust         2 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Other        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->
