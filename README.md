@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 46 mins
+Total Time: 7 hrs 17 mins
 
-Python       5 hrs 5 mins    █████████████▒░░░░░░░░░░░   53.87 %
-Rust         3 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 %
-Other        41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Python       5 hrs 5 mins    ████████████████░░░░░░░░░   63.89 %
+Rust         1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+Other        41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
 ```
 
 <!--END_SECTION:waka-->
