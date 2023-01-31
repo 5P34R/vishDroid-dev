@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 37 mins
+Total Time: 5 hrs 29 mins
 
-Rust         2 hrs 57 mins   █████████████░░░░░░░░░░░░   51.89 %
-Python       1 hr 28 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-JavaScript   49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Rust         2 hrs 57 mins   █████████████▒░░░░░░░░░░░   53.16 %
+Python       1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   24.53 %
+JavaScript   49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
