@@ -12,9 +12,9 @@
 ```text
 Total Time: 13 hrs 4 mins
 
-Python       8 hrs 9 mins    ██████████████▓░░░░░░░░░░   58.11 %
-TypeScript   2 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-Other        57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Python       7 hrs 49 mins   ██████████████░░░░░░░░░░░   55.68 %
+TypeScript   3 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+Other        59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
 ```
 
 <!--END_SECTION:waka-->
