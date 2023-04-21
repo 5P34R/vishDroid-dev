@@ -10,9 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 5 mins
 
-No activity tracked
+CSS    4 mins          ███████████████████████░░   92.18 %
+JSON   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 
 <!--END_SECTION:waka-->
