@@ -10,14 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 hrs 24 mins
+Total Time: 0 secs
 
-JavaScript    1 hr 38 mins    █████████▒░░░░░░░░░░░░░░░   37.31 %
-CSS           1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   33.32 %
-Python        34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-PHP           21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Text          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Smali         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
