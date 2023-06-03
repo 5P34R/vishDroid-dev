@@ -9,14 +9,14 @@
 ---
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 11 hrs 32 mins
+```txt
+Total Time: 7 hrs 17 mins
 
-Python       6 hrs 30 mins   ██████████████░░░░░░░░░░░   56.42 %
-Go           2 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-Smali        1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-TypeScript   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-PHP          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Python       2 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   39.60 %
+Go           1 hr 36 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+PHP          48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+TypeScript   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+JavaScript   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:waka-->
