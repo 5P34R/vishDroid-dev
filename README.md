@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 41 mins
+Total Time: 12 hrs 51 mins
 
-TypeScript   11 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.95 %
-Python       3 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
-Go           2 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Rust         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-TOML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript   7 hrs 39 mins   ███████████████░░░░░░░░░░   59.45 %
+Go           2 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+Rust         1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+Python       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TOML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
