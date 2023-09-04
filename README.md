@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 2 mins
+Total Time: 14 hrs 57 mins
 
-Go               8 hrs 10 mins   ████████████▓░░░░░░░░░░░░   51.02 %
-TypeScript       2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-Python           2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
-HTML             1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Ezhil            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Go               8 hrs 10 mins   █████████████▓░░░░░░░░░░░   54.68 %
+TypeScript       2 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Python           2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+HTML             1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Makefile         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
