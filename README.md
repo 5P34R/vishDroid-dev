@@ -10,13 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 2 mins
+Total Time: 0 secs
 
-Go             4 hrs 59 mins   ████████████████████████▓   98.98 %
-Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Makefile       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git Config     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
