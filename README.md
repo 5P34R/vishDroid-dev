@@ -10,11 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 34 mins
+Total Time: 5 hrs 55 mins
 
-Python   3 hrs 12 mins   ██████████████████████▒░░   89.73 %
-Go       21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python       4 hrs 30 mins   ███████████████████░░░░░░   76.11 %
+TypeScript   1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Go           21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
