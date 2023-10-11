@@ -10,9 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 16 mins
+Total Time: 32 mins
 
-Python   1 hr 16 mins    █████████████████████████   100.00 %
+Python   32 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
