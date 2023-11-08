@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 21 mins
+Total Time: 6 hrs 35 mins
 
-Python                     2 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.66 %
-C++                        1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-Go                         1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-PHP                        56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-Nginx configuration file   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Python                     2 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   38.80 %
+Go                         1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+PHP                        56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Nginx configuration file   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+APL                        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
