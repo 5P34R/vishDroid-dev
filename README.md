@@ -10,11 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 mins
+Total Time: 0 secs
 
-C++   7 mins          ███████████████████▓░░░░░   78.60 %
-C#    1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-C     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
